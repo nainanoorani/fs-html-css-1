@@ -1,0 +1,51 @@
+* {
+    font-family: "Tahoma", monospace;
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    background-color: rgb(255, 157, 0);
+    color: white;
+    padding: 20px;
+    margin: 0;
+}
+
+h1,
+p {
+    text-align: center;
+    
+}
+h2,
+p {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    margin: 10px 100px;
+}
+
+img {
+    width:100%;
+    border: 0px solid black;
+
+}
+
+p > span {
+    font-weight: bold;
+}
+hr {
+    border-width: 5px;
+}
+div button {
+    padding: 10px 15px;
+    border: 10px;
+    background-color: coral;
+    color: white;
+    border-radius: 20px;
+    text-align:center;
+}
+
